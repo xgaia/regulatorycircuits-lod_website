@@ -46,11 +46,3 @@ make page
 ```
 
 The new page will be created in the `pages` directory
-
-### Create a post
-
-```bash
-make post
-```
-
-The new post will be created in the `posts` directory
