@@ -151,7 +151,7 @@ NAVIGATION_LINKS = {
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         # ("/news/", 'News'),
-        ("/citations/", 'citations'),
+        ("/citations/", 'Citations'),
         # ("/contact/", 'Contact')
     ),
 }
