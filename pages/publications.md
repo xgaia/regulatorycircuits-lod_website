@@ -1,5 +1,5 @@
 <!--
-.. title: Citations
+.. title: Projects citing the RC ressource
 .. slug: citations
 .. date: 2020-05-18 13:00:29 UTC+02:00
 .. tags: 

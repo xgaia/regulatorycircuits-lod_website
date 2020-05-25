@@ -151,7 +151,7 @@ NAVIGATION_LINKS = {
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         # ("/news/", 'News'),
-        ("/citations/", 'Citations'),
+        ("/citations/", 'Projects citing the RC ressource'),
         # ("/contact/", 'Contact')
     ),
 }
