@@ -17,7 +17,9 @@
 <a class="btn btn-secondary btn-lg" href="/sparql/" role="button">SPARQL »</a>
 <a class="btn btn-secondary btn-lg" href="/dumps/" role="button">RDF files »</a>
 
-We give example of queries in the <a href="https://github.com/mlouarn/RCsparql">GitHub</a> associated to the project. The turtles files are also available.
+We give example of queries in the <a href="https://github.com/mlouarn/RCsparql">GitHub repository</a> associated to the project.
+
+RDF dataset can be [downloaded](/dumps/) and the endpoint can be [hosted on your server](/host-dataset/).
 
 In a preliminary work, we integrated the samples data into a RDF triplestore and showed that two SPARQL queries could generate the corresponding networks:
 
